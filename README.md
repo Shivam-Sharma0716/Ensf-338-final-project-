@@ -1,6 +1,6 @@
 # Campus Navigation and Event Management System - ENSF338 Final project-Group_3 
 
-GitHub Repository URL: **[https://github.com/07162005/Ensf-338-final-project-]**
+GitHub Repository URL: **[https://github.com/07162005/Ensf-338-Final-Project-]**
 
 ---
 
